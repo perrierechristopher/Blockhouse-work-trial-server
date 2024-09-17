@@ -5,3 +5,10 @@
 * Django rest framework to be able to develop a rest api using http methods
 * Django cors headers to allow and control cross origin resources, specifing allowed domain to make request to the server
   
+## TO RUN THE SERVER
+> After cloning the repo and getting at the root folder, run the following command to start the server.
+```
+cd app
+python manage.py runserver
+
+```
